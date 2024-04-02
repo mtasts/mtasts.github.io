@@ -1,0 +1,6 @@
+version: STSv1
+mode: enforce
+max_age: 2419200
+mx: mx.zoho.com
+mx: mx2.zoho.com
+mx: mx3.zoho.com
